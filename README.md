@@ -18,13 +18,9 @@
 
 ## Conectemos 🚀
 
-- 🌐 [Mi página web](#)
-- 💼 [LinkedIn](#)
+
+- 💼 [LinkedIn](#https://www.linkedin.com/in/jam-piere-molina-salazar-796914285/)
 - 📫 Contáctame en: jampieremolinasalazar@gmail.com
-
-Espero que disfrutes explorando mis proyectos. ¡No dudes en dejar comentarios o contribuir a cualquiera de los repositorios!
-
-¡Nos vemos por el camino del código! ✨
 
 ---
 > "La creatividad es la inteligencia divirtiéndose." - Albert Einstein
