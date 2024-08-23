@@ -1,4 +1,4 @@
-# ¡Bienvenido a mi GitHub! 👋
+# ¡Hi, I'm JAM! 👋
 
 ¡Hola! Soy Jam , un desarrollador de software con pasión por la tecnología y la creación de soluciones innovadoras. 🚀
 
