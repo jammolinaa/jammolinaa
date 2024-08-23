@@ -17,7 +17,7 @@
 
 ## Conectemos 🚀
 
-- 💼 [LinkedIn](#https://www.linkedin.com/in/jam-piere-molina-salazar-796914285/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jam-piere-molina-salazar-796914285/)
 - 📫 Contáctame en: jampieremolinasalazar@gmail.com
 
 ---
