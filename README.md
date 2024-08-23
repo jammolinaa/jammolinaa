@@ -6,7 +6,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **Google Apps Script**, **Node.js**, y explorando cómo funcionan las **redes neuronales**.
 - 💻 Me encanta automatizar tareas y trabajar en proyectos relacionados con **JavaScript** y otros lenguajes de programación.
-- 🎮 Además, estoy desarrollando un videojuego que incluye un interesante **dilema amoroso** como parte de su narrativa. 🕹️
   
 <!--
 ## Proyectos destacados
