@@ -14,13 +14,13 @@
 - 📝 **[Proyecto 1](#)** - Descripción breve del proyecto.
 - 📊 **[Proyecto 2](#)** - Descripción breve del proyecto.
 - 🎮 **[Videojuego](#)** - Un juego en desarrollo que incluye dilemas y decisiones importantes.
-- -->
+-
 
 ## Conectemos 🚀
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jam-piere-molina-salazar-796914285/)
 - 📫 Contáctame en: jampieremolinasalazar@gmail.com
-
+- -->
 ---
 > "La creatividad es la inteligencia divirtiéndose." - Albert Einstein
 
