@@ -1,4 +1,4 @@
-# ¡Hi, I'm JAM! 👋
+<h1 align="center">Hi 👋, I'm JAM</h1>
 
 ¡Hola! Soy Jam , un desarrollador de software con pasión por la tecnología y la creación de soluciones innovadoras. 🚀
 
@@ -24,8 +24,8 @@
 -->
 ---
 > "La creatividad es la inteligencia divirtiéndose." - Albert Einstein
-<h1 align="center">Hi 👋, I'm JAM</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
