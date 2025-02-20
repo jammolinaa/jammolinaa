@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JAM</h1>
+<h1 align="center">Hi, I'm JAM</h1>
 
 ¡Hola! Soy Jam , un desarrollador de software con pasión por la tecnología y la creación de soluciones innovadoras. 🚀
 
