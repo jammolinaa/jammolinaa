@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy JAM
 
-Soy un desarrollador de software con una pasión insaciable por la tecnología, la creatividad y la construcción de soluciones que marcan la diferencia. Me encanta convertir ideas en código funcional, limpio y escalable. 🚀
+Soy un desarrollador de software con una pasión por la tecnología, la creatividad y la construcción de soluciones que marcan la diferencia. Me encanta convertir ideas en código funcional, limpio y escalable. 🚀
 
 > _"La creatividad es la inteligencia divirtiéndose."_  
 > — Albert Einstein
@@ -16,7 +16,6 @@ Soy un desarrollador de software con una pasión insaciable por la tecnología, 
   <img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fexpress-js-icon%2F&psig=AOvVaw1-aZJoSzLF4LDNeqoYq3k7&ust=1749046934673000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj-7I-61Y0DFQAAAAAdAAAAABAL" />
   <img alt="Laravel" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
   <img alt="NestJS" height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANestJS.svg&psig=AOvVaw3_8Mp5hdG474f3B7olAMM6&ust=1749046900490000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjG7cy51Y0DFQAAAAAdAAAAABAE" />
   <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
